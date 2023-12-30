@@ -3,3 +3,5 @@ my lazy arse software dev brain goes "ooh, fun!", so maybe try that stuff out to
 i'm happy today alxamdulillaah :D today was a good day both for my code and otherwise! (1/5!!!)
 
 try flexbox/container to get title of navbar centered and the padding of topbar sorted.
+
+the spec links aren't broken for GCSE, just ask teachers maybe in form for any feedback and whether anything needs changing.
