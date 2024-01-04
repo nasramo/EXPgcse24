@@ -1,5 +1,5 @@
 a{
-    text-decoration:none;
+    text-decoration-line:none;
 }
 a:hover{
     color: #7ef7e3 !important;
@@ -102,9 +102,6 @@ a[name='pe']{
     color:black;
     font-size:5vw;
 }
-.t{
-    width: 57px;
-}
 .bk{
     background: #e6e6e6;
     color: #808080;
@@ -175,20 +172,6 @@ table,td,th{
     }
 }
 @media only screen and (min-width:730px) {
-    table{
-    font-size:20px;
-    color: #878786;
-    background: #f7f8f8;
-    font-family: Trebuchet MS, Verdana, Arial, sans-serif;
-    margin-left: auto;
-    margin-right: auto;
-} 
-    .idk{
-    border: 3px solid #27727c;
-    font-family: Trebuchet MS, Verdana, Arial;
-    width: 25vw;
-    font-size: 15px;
-}
     .note{
     font-family: Tahoma, Trebuchet MS, Verdana, Arial;
     width: 60vw;
